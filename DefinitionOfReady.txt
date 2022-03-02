@@ -1,0 +1,10 @@
+Definition of Ready:
+
+Title
+Description
+Acceptance Criteria
+Definition of Done
+Story pointed(Sized)
+Person assigned to the ticket
+Any relevant documentation included
+
