@@ -1,0 +1,1 @@
+Your team has identified and articulated a far and near vision for the product. It is clearly documented in your git repo (under Product Vision).
