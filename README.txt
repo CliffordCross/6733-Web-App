@@ -1,4 +1,4 @@
-﻿Team {name}
+﻿Team 4
 
 Roster:
 Cliff Cross - SCRUM Master
